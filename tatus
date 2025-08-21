@@ -1,0 +1,17 @@
+*   [33m7cf07ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #2 from AmsalemDev/feature/payment-system
+[31m|[m[32m\[m  
+[31m|[m * [33mf85aeac[m[33m ([m[1;31morigin/feature/payment-system[m[33m, [m[1;32mfeature/payment-system[m[33m)[m Add initial payment system configuration
+[31m|[m * [33mbb1d1ed[m[33m ([m[1;32mdevelop[m[33m)[m Add mistake.txt for commit message practice
+[31m|[m *   [33m83801d6[m[33m ([m[1;31morigin/develop[m[33m)[m Merge branch 'feature/payment-system' into develop
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m * [33m331f52a[m Add test_payment.json for payment system testing
+[31m|[m * [34m|[m [33md34f1df[m Merge pull request #1 from AmsalemDev/feature/payment-system
+[31m|[m[31m/[m[34m|[m [34m|[m 
+[31m|[m [34m|[m[34m/[m  
+[31m|[m * [33m4f37f8a[m Add payment system config
+[31m|[m[31m/[m  
+* [33m3725908[m[33m ([m[1;31morigin/feature/user-auth[m[33m, [m[1;32mfeature/user-auth[m[33m)[m Add test_auth.json for remote collaboration
+* [33m51d4220[m Add comment in cloned repo
+* [33m1809ff2[m Add auth configuration
+* [33mcf1969b[m Updated API endpoints
+* [33m15a488f[m Initial configuration
