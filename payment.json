@@ -1,0 +1,6 @@
+{
+  "provider": "stripe",
+  "currency": "USD",
+  "testMode": true
+}
+
