@@ -1,1 +1,6 @@
-{ "payment": "enabled" }
+{
+  "provider": "stripe",
+  "currency": "USD",
+  "testMode": true
+}
+
